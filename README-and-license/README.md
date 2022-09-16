@@ -5,3 +5,5 @@ When I tried this method before, it automatically made the README the root file 
 Deleting the README to re-add later did not work and gave me a 404 error upon re-deployment.
 
 I deleted the README again and then created a folder to put it into hoping it will no longer be the root file
+
+After still getting a 404 error, I tried changing the name of my html file from "to-do.html" to "index.html" and that solved the problem!
